@@ -1,1 +1,1 @@
-# solve-maze-with-Astar-A-
+# solve-maze-with-Astar
